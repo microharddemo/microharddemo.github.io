@@ -3,6 +3,8 @@ title: BilibiliOS
 layout: article
 ---
 
+![image](/43AB9B03-E583-469B-99EE-4A3208FC61D0.png){:.border}
+
 ### 了解BilibiliOS
 
 BilibiliOS，是由 Microhard Demo 基于 Windows NT 制作的定制系统。
