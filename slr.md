@@ -21,12 +21,8 @@ BilibiliOS在Windows中添加了许多哔哩哔哩的元素，从OOBE到桌面�
 
 [了解详细信息](https://microharddemo.github.io/2023/02/12/bilios.html)
 
-### 其他版本的BilibiliOS
+### 更多魔改系统
 
-BilibiliOS目前仅推出了一个版本。
 
-### BilibiliServer服务器
-
-也没做出来，坐和放宽吧！
 
 ![image](/slr.JPG){:.border}
