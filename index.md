@@ -28,12 +28,6 @@ title: 主页
 
 [了解详细信息](2023/01/20/winwelcome.html)
 
-### UP主必备！Win11录屏工具
-
-Windows 11 预览版已经推送最新的录屏工具。正式版用户也可在此处下载，提前体验新版录屏工具，也便于录制演示视频。
-
-[立即下载安装包](/Microsoft.ScreenSketch_2022.2212.24.0_neutral_~_8wekyb3d8bbwe.Msixbundle)
-
 ### 上B站，看更多视频与专栏
 
 这里仅仅是发布应用的地方，所以你能看到的内容很少，更多内容请到 [Microhard_1724 的B站主页](https://b23.tv/5kBoF1E) 查看。
@@ -44,4 +38,4 @@ B站推荐视频：[点击观看视频](https://b23.tv/euw947f)
 
 Microhard一般只在主页放3个以内的推荐应用，您可以点击顶部导航栏的[应用下载](/blogs.html)或右上角搜索以查看更多应用。
 
-[隐藏功能](/winload.html)
+[隐藏功能](/winload.html) [关于](/about.html)
