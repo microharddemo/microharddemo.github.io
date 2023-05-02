@@ -3,6 +3,8 @@ layout: article
 title: 主页
 ---
 
+![image](/广告图.png){:.rounded.shadow}
+
 ### 每日一句
 
 <a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">逸一时，误一世，逸久逸久罢已龄！</a>
