@@ -3,8 +3,6 @@ layout: article
 title: 主页
 ---
 
-![image](/广告图.png){:.rounded.shadow}
-
 ### 每日一句
 
 <a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">逸一时，误一世，逸久逸久罢已龄！</a>
@@ -35,6 +33,8 @@ title: 主页
 这里仅仅是发布应用的地方，所以你能看到的内容很少，更多内容请到 [Microhard_1724 的B站主页](https://b23.tv/5kBoF1E) 查看。
 
 B站推荐视频：[点击观看视频](https://b23.tv/euw947f)
+
+![image](/广告图.png){:.rounded.shadow}
 
 ### 下载更多应用
 
