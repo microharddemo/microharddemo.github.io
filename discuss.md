@@ -3,7 +3,7 @@ layout: article
 title: 讨论群
 ---
 
-！[image](\IMG_2888.png){:.border}
+![image](\IMG_2888.png){:.border}
 
 Microhard Demo 推荐您加入Teams粉丝群。[点击此处进入](https://teams.live.com/l/invite/FEABWIvHiuVkeDqsQY)
 
