@@ -40,4 +40,4 @@ B站推荐视频：[点击观看视频](https://b23.tv/euw947f)
 
 Microhard一般只在主页放3个以内的推荐应用，您可以点击顶部导航栏的[应用下载](/blogs.html)或右上角搜索以查看更多应用。
 
-[隐藏功能](/winload.html) [关于](/about.html)
+[加入预览体验计划](/winload.html) [关于](/about.html)
