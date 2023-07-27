@@ -5,12 +5,6 @@ layout: article
 
 ![image](/43AB9B03-E583-469B-99EE-4A3208FC61D0.png){:.border}
 
-### 急需援助！邀请你来帮忙开发BilibiliOS！
-
-没错！屏幕前的你也可以帮助我们开发BilibiliOS，并且获得最新内部版本！
-
-如果想参与我们的开发，请[点击此处](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAASMTOj5UQkJBNlJVVTRRTUcyWVdOWktGNE5aTUszNC4u)填写调查表。
-
 ### 了解BilibiliOS
 
 BilibiliOS，是由 Microhard Demo 基于 Windows NT 制作的定制系统。
