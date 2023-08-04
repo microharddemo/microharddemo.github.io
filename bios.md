@@ -37,4 +37,4 @@ BilibiliOS可以安装在实体机上，作为你的电脑，或者安装在虚�
 
 **坐和放宽，马上出最终版！**
 
-![image](/slr.JPG){:.border}
+![image](/BIOS.PNG){:.border}
