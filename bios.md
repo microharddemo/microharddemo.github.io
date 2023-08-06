@@ -31,10 +31,4 @@ BilibiliOS全新壁纸大集合！27张不同的壁纸，带你畅享哔哩哔�
 
 **不过，BilibiliOS还有更多有趣的文字更改，等着你发现！**
 
-### BilibiliOS下载与安装
-
-BilibiliOS可以安装在实体机上，作为你的电脑，或者安装在虚拟机里，给你观赏。提取码：bios。
-
-**坐和放宽，马上出最终版！**
-
 ![image](/BIOS.PNG){:.border}
