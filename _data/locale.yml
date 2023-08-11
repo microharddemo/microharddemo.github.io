@@ -2,14 +2,14 @@
 ## => English
 ########################
 en: &EN
-  SUBSCRIBE               : "订阅"
-  READMORE                : "阅读更多"
+  SUBSCRIBE               : "没用的按钮"
+  READMORE                : "了解详细信息"
   SEARCH                  : "搜索"
   CANCEL                  : "取消"
   VIEWS                   : "阅读"
   LAST_UPDATED            : "更新于"
-  PREVIOUS                : "上篇"
-  NEXT                    : "下篇"
+  PREVIOUS                : "上一页"
+  NEXT                    : "下一页"
   ARTICLE_DATE_FORMAT     : "%Y年 %m月%d日"
   ARTICLE_LIST_DATE_FORMAT: "%m月%d日"
   STATISTICS              : "共计 [POST_COUNT] 篇文章，[PAGE_COUNT] 页。"
@@ -20,6 +20,7 @@ en: &EN
   EMAIL_ME                : "给我发邮件。"
   EMAIL_US                : "给我们发邮件。"
   COPYRIGHT_DATES         : "2023"
+
 
 en-GB:
   <<: *EN
@@ -33,14 +34,14 @@ en-AU:
 ## => Simplified Chinese
 ########################
 zh-Hans: &ZH_HANS
-  SUBSCRIBE               : "订阅"
-  READMORE                : "阅读更多"
+  SUBSCRIBE               : "没用的按钮"
+  READMORE                : "了解详细信息"
   SEARCH                  : "搜索"
   CANCEL                  : "取消"
   VIEWS                   : "阅读"
   LAST_UPDATED            : "更新于"
-  PREVIOUS                : "上篇"
-  NEXT                    : "下篇"
+  PREVIOUS                : "上一页"
+  NEXT                    : "下一页"
   ARTICLE_DATE_FORMAT     : "%Y年 %m月%d日"
   ARTICLE_LIST_DATE_FORMAT: "%m月%d日"
   STATISTICS              : "共计 [POST_COUNT] 篇文章，[PAGE_COUNT] 页。"
