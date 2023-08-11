@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 甘甘的电脑磁盘
 description: > # this means to ignore newlines until "Language & timezone"
-  G Studio
+  G Studio 室长 的官方网站
 
 
 ## => Language and Timezone
