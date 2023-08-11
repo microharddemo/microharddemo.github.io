@@ -25,7 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-# 关于  
 ## 关于甘甘  
 甘甘是一个
 ~~名副其实~~
