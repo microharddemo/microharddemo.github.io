@@ -3,6 +3,9 @@ layout: article
 title: 主页
 ---
 
+全网通报批评！B站有人抄袭我的个人官网！详情见我的视频：[哔哩哔哩视频](https://b23.tv/QclKPB9)。
+{:.error}
+
 ### 每日一句
 
 <a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">逸一时，误一世，逸久逸久罢已龄！</a>
