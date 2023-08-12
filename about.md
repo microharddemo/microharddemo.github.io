@@ -29,9 +29,10 @@ key: page-about
 肝肝甘甘的野生电脑是一个
 ~~名副其实~~
 的肝帝，经常肝出逝来  
-[肝肝肝肝的野生电脑的Bilibili](https://space.bilibili.com/1028045655)
+[肝肝肝肝的野生电脑的Bilibili](https://space.bilibili.com/1028045655)  
+~~不会只有我一个人敢对标某悠然自得的网站吧~~
 ## 关于本网站  
-基于teXt打造的
+基于TeXt打造的
 ~~优质~~
 网站  
-_感谢teXt的开发者大大!!!_
+_感谢TeXt的开发者大大!!!_
