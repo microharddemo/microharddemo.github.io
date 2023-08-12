@@ -25,6 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
+# 关于
 ## 关于肝肝甘甘的野生电脑  
 肝肝甘甘的野生电脑是一个
 ~~名副其实~~
